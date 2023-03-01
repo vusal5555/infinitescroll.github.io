@@ -76,3 +76,9 @@ window.addEventListener('scroll', () => {
 });
 
 loadImages();
+
+const greet = function () {
+  console.log('hi');
+};
+
+greet();
