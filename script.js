@@ -76,10 +76,3 @@ window.addEventListener('scroll', () => {
 });
 
 loadImages();
-
-const addNumbers = function (num1, num2) {
-  const sum = num1 + num2;
-  console.log(sum);
-};
-
-addNumbers(5, 7);
